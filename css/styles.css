@@ -1,0 +1,7 @@
+body {
+    background-color: hsl(273, 75%, 66%);
+}
+
+.question-txt {
+    cursor: pointer;
+}
