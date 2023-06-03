@@ -2,6 +2,59 @@ body {
     background-color: hsl(273, 75%, 66%);
 }
 
+.container {
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 15vh;
+    left: 4vw;
+    border-radius: 10px;
+    padding: 0 2em 0 2em;
+    z-index: 3000;
+}
+
+.desktop {
+    display: none;
+}
+
 .question-txt {
     cursor: pointer;
+    font-size: 16px;
+}
+
+.answer-txt {
+    display: none;
+    line-height: 18px;
+    width: 15%;
+    padding-bottom: 2em;
+    margin-bottom: 2em;
+}
+
+.show {
+    display: initial;
+    padding-bottom: 25px;
+}
+
+.arrow-active {
+    transform: rotate(180deg);
+}
+
+.question {
+    border-bottom: 1.5px solid hsl(240, 5%, 91%);
+}
+
+.question p {
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+}
+
+.mobile-img {
+    position: relative;
+    bottom: 8em;
+}
+
+.mobile {
+    position: absolute;
+    left: 3em;
+    top: 1em;
+    z-index: 4000;
 }
