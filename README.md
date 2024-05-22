@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [See the Code](https://github.com/DarkPhoenixNinja92/faq-accordion-card)
-- Live Site URL: [See the Project](https://darkphoenixninja92.github.io/faq-accordion-card)
+- Solution URL: [See the Code](https://github.com/shaunpour/faq-accordion-card)
+- Live Site URL: [See the Project](https://shaunpour.github.io/faq-accordion-card)
 
 ### Built with
 
